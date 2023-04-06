@@ -8,6 +8,11 @@
     box-sizing: border-box;
 }
 
+body{
+    background: url("/src/images/bg.jpg") no-repeat;
+    background-size: cover;
+}
+
 .button-container-1 {
     position: relative;
     width: 100px;
