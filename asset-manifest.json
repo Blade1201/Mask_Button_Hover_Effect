@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Mask_Button_Hover_Effect/static/css/main.c12103c3.css",
+    "main.js": "/Mask_Button_Hover_Effect/static/js/main.551dc512.js",
+    "static/media/urban-sprite.png": "/Mask_Button_Hover_Effect/static/media/urban-sprite.cdecf8f93039c2ff79c1.png",
+    "static/media/nature-smaller.png": "/Mask_Button_Hover_Effect/static/media/nature-smaller.4dbf15959f88ffd8cabb.png",
+    "static/media/nature-sprite.png": "/Mask_Button_Hover_Effect/static/media/nature-sprite.d49281ab63d2c034e5c5.png",
+    "index.html": "/Mask_Button_Hover_Effect/index.html",
+    "main.c12103c3.css.map": "/Mask_Button_Hover_Effect/static/css/main.c12103c3.css.map",
+    "main.551dc512.js.map": "/Mask_Button_Hover_Effect/static/js/main.551dc512.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c12103c3.css",
+    "static/js/main.551dc512.js"
+  ]
+}
